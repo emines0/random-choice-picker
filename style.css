@@ -1,0 +1,21 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* Variables */
+
+/* Generals */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #fafafa;
+	font-family: "Roboto", sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	overflow: hidden;
+	margin: 0;
+}
